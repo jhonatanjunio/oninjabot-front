@@ -1,0 +1,13 @@
+#nprogress {
+    pointer-events: none;
+
+    .bar {
+        width: theme('width.full');
+        height: theme('height.1');
+        background-color: theme('colors.green.400');
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: theme('zIndex.50');
+    }
+}

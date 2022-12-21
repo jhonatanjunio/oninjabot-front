@@ -1,0 +1,16 @@
+@use './typography.scss';
+@use './avatar.scss';
+@use './expbar.scss';
+@use './slotmachine.scss';
+
+body {
+    font-family: typography.$sourceSansPro;
+}
+
+:root {
+    --pixel-size: 6;
+}
+
+body {
+    background-color:rgba(0, 0, 0, 0)
+}

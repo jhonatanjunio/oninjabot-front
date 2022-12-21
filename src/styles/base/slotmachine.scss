@@ -1,0 +1,31 @@
+.slot {
+  float: left;
+  margin: 0.4em;
+}
+
+.slot__window {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.slot__wrap {
+
+}
+
+.slot__item {
+  margin-top: 20px;
+  height: 160px;
+  width: 180px;
+  padding: 0 10px;
+
+  text-align: center;
+  background-color: blue;
+  color: white;
+
+  line-height: 160px;
+}
+
+.slot__item--copy {
+}
