@@ -1,7 +1,7 @@
 # oNinjaBot - Frontend
 
 Projeto frontend utilizado nas lives [oNinjaDev](https://twitch.tv/oninjadev)!<br/>
-A estrutura do projeto foi baseada em um template que é basicamente Vue 3, Typescript e Vite.
+A estrutura do projeto foi baseada em um template que é basicamente Vue 3, Typescript e Vite
 
 ## Onde está o que?
 
